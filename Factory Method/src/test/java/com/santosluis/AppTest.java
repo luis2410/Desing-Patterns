@@ -1,4 +1,4 @@
-package edu.hbsp;
+package com.santosluis;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
