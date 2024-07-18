@@ -1,4 +1,4 @@
-package com.santosluis.srp;
+package com.santosluis.singleresponsibilityprinciple;
 
 public class DirectorCertifications {
   public String getDirectorCertifications(Director director){
